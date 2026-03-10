@@ -1,4 +1,5 @@
 # UK Online Retail Behaviour & Performance Analysis (2009–2011)
+This project builds on a previous analysis of the same dataset but focuses on **return behaviour, customer revenue concentration, and product performance**, providing a deeper investigation into operational patterns within the business.
 
 ![SQL](https://img.shields.io/badge/SQL-MySQL-blue)
 ![Project Type](https://img.shields.io/badge/Analysis-Retail_Data-green)
