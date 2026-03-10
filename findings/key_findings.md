@@ -79,9 +79,9 @@ This suggests that higher return rates for seasonal items may be an expected par
 
 ## Conclusion
 
-This retailer has a clear and successful formula: selling appealing gift and homeware products to customers who are most active during the Christmas shopping period. The revenue figures clearly demonstrate that this strategy works.
+This retailer has a clear and successful formula, which is selling appealing gift and homeware products to customers who are most active during the Christmas shopping period. The revenue figures clearly demonstrate that this strategy works.
 
-However, the analysis also reveals several vulnerabilities. The business is heavily dependent on a small number of customers and a narrow seasonal window. The January return spikes, while not indicative of customer dissatisfaction, still represent operational complexity that must be managed carefully. Seasonal products, while profitable, also carry higher return rates that should be considered in planning.
+However, the analysis also reveals several vulnerabilities. The business is heavily dependent on a small number of customers and a narrow seasonal window. The January return spikes, while not a sign of customer dissatisfaction, still represent operational complexity that must be managed carefully. Seasonal products, while profitable, also carry higher return rates that should be considered in planning.
 
 Future analysis could explore where customers are located geographically, whether they return repeatedly, how different product categories perform, and whether marketing activity influences purchasing behaviour.
 
